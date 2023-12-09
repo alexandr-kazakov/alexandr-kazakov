@@ -5,7 +5,7 @@ My name is Alexandr Kazakov and I am a software engineer
 
 :briefcase: Web, blockchain, and a bit of interactive emails. Primary languages: Javascript/Typescript, Rust
 
-🌱 I'm currently learning Web3.js/Rust/Solana. I'm a two-time participant in Solana hackathons.
+🌱 I'm currently learning Web3.js/Rust/Solana.
 
 :memo: Blog [about tech in English and Russian](https://alexandr-kazakov.github.io/)
 
