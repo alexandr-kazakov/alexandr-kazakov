@@ -12,9 +12,8 @@ My name is Alexandr Kazakov and I am a software engineer
 ### 📖 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-<!---
-- [[RU] Ваша емайл-рассылка нуждается в AMP-emails прямо сейчас](https://alexandr-kazakov.github.io/amp-emails-intro.html) )
--->
+
+- [[RU] Ваша емайл-рассылка нуждается в AMP-emails прямо сейчас](https://alexandr-kazakov.github.io/amp-emails-intro.html)
 - [[EN] My participation in the Solana Hackathon in 2023](https://alexandr-kazakov.github.io/solana-hackathon-2023.html)
 - [[EN] How to participate in Solana Hackathon](https://alexandr-kazakov.github.io/solana-hackathon-how-to.html)
 <!-- BLOG-POST-LIST:END -->
