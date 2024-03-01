@@ -3,9 +3,9 @@
 My name is Alexandr Kazakov and I am a software engineer 
 <a href="https://www.linkedin.com/in/alexandr-kazakov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
 
-:briefcase: Web, blockchain, and a bit of interactive emails. Primary languages: Javascript/Typescript, Rust
+:briefcase: Web3.js, blockchain, React, Vue, Node.js. Primary languages: Javascript / Typescript
 
-🌱 I'm currently learning Web3.js/Rust/Solana.
+🌱 I'm currently learning Web3.js / Rust / Solana.
 
 :memo: Blog [about tech in English and Russian](https://alexandr-kazakov.github.io/)
 
