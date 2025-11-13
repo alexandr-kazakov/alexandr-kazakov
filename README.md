@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexandr Kazakov and I am a software engineer 
+My name is Alexander Kazakov and I am a software engineer 
 <a href="https://www.linkedin.com/in/alexandr-kazakov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
 
 :briefcase: Web3.js, blockchain, React, Vue, Node.js. Primary languages: Javascript / Typescript
