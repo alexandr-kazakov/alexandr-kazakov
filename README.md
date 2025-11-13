@@ -5,7 +5,7 @@ My name is Alexandr Kazakov and I am a software engineer
 
 :briefcase: Web3.js, blockchain, React, Vue, Node.js. Primary languages: Javascript / Typescript
 
-🌱 I'm currently learning Web3.js / Rust / Solana.
+🌱 My [Talks](https://alexandr-kazakov.github.io/talks)
 
 :memo: Blog [about tech in English and Russian](https://alexandr-kazakov.github.io/)
 
